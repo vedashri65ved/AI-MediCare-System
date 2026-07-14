@@ -242,7 +242,7 @@ Add screenshots of:
 
 ---
 
-# 🔍 How It Works
+#  How It Works
 
 1. User enters symptoms (NLP or Manual).
 2. Symptoms are converted into feature vectors.
@@ -288,7 +288,7 @@ This project can be used by:
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 ### Programming Language
 
