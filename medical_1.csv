@@ -1,0 +1,121 @@
+fever,cough,headache,fatigue,chest_pain,breathing_problem,sore_throat,body_pain,nausea,disease
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,0,1,0,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,0,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,0,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,1,1,0,COVID
+0,0,1,1,0,0,0,1,0,Migraine
+1,0,1,1,0,0,0,1,0,Dengue
+1,1,0,1,1,1,0,1,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,1,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,0,1,1,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,0,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,1,1,0,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,1,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,1,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,0,1,1,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,0,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,0,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,1,1,1,COVID
+0,0,1,1,0,0,0,1,0,Migraine
+1,0,1,1,0,0,0,1,0,Dengue
+1,1,0,1,1,1,0,1,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,1,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,0,1,1,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,0,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,1,1,0,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,1,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,1,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,0,1,0,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,0,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,0,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,1,1,1,COVID
+0,0,1,1,0,0,0,1,0,Migraine
+1,0,1,1,0,0,0,1,0,Dengue
+1,1,0,1,1,1,0,1,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,1,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,0,1,1,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,0,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
+1,1,1,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,Cold
+1,1,1,1,1,1,1,1,0,COVID
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,1,0,0,0,1,1,Dengue
+1,1,0,1,1,1,0,1,0,Pneumonia
+0,0,1,0,0,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,1,Tuberculosis
+0,1,0,1,0,0,1,0,0,Throat Infection
+1,0,1,1,0,0,0,1,1,Typhoid
